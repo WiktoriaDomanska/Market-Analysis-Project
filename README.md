@@ -36,7 +36,7 @@ Celem projektu było stworzenie narzędzia dla analityka ryzyka, które pozwala 
 
 1.  **Sklonowanie repozytorium:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[TWOJ-NICK]/Market-Analysis-Project.git
+    git clone [https://github.com/](https://github.com/)WiktoriaDomanska/Market-Analysis-Project.git
     ```
 2.  **Instalacja wymaganych bibliotek:**
     ```bash
@@ -54,4 +54,5 @@ Celem projektu było stworzenie narzędzia dla analityka ryzyka, które pozwala 
 ---
 
 *Autor: Wiktoria Domańska*
+
 
