@@ -53,4 +53,5 @@ Celem projektu było stworzenie narzędzia dla analityka ryzyka, które pozwala 
 
 ---
 
-*Autor: Wiktoria [Twoje Nazwisko]*
+*Autor: Wiktoria Domańska*
+
